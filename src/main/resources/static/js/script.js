@@ -4,8 +4,8 @@ window.addEventListener('load', () => {
       document.querySelector('.loader-wrapper').style.opacity = '0';
       setTimeout(() => {
           document.querySelector('.loader-wrapper').style.display = 'none';
-      }, 500);
-  }, 2000);
+      }, 100);
+  }, 1000);
 });
 
 //document.addEventListener('mousedown', () => {
