@@ -1,4 +1,4 @@
-# 🧑‍💻 Arpit Sharma – Developer Portfolio (Spring Boot Backend)
+# 🧑‍💻 Arpit Sharma – Developer & Designer Portfolio (Spring Boot Backend)
 
 Welcome to my personal developer portfolio backend built using **Java Spring Boot**. This project powers my portfolio website, showcasing my skills, experience, and projects as a Full Stack Developer & UI/UX Designer.
 
